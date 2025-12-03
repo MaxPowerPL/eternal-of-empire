@@ -46,4 +46,3 @@ Eternal of Empire/
 │       └── ...
 ├── main.cpp            # Punkt wejścia (Entry point)
 └── README.md
-
