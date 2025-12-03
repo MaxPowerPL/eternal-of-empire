@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignorowanie zapisów gry (save'y)
+zapisy/
+
+# Ignorowanie muzyki (jeśli są to duże pliki)
+muzyka/
